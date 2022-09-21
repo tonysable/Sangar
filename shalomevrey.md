@@ -12,3 +12,7 @@ To make a bullet list put an asterisk with a space before each word
 * Балбес
 * Бывалый
 * Жулик
+
+To cross a text out put double tilda before and after the text
+
+~~А вот так делать не надо!~~
