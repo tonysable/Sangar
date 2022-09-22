@@ -2,6 +2,13 @@
 
 Start our novel
 
+## Git commands
+
+1. git init - initializing Git
+2. git add [.\filename] - adding a file to Git
+3. git commit -m "Message" - giving a message to a commit
+4. git --version - checking the current version of Git
+
 
 To make a text italic put an asterisk before and after *Italic*
 
