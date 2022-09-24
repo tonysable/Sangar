@@ -11,6 +11,7 @@ Start our novel
 5. git diff - shows the difference between current status of a file and saved
 6. git checkout - loads indicated saving
 7. git checkout master - returns to the initial status
+8. git checkout branch_name - switches to a created branch
 
 
 If you want to make a link
