@@ -13,7 +13,7 @@ Start our novel
 7. git checkout master - returns to the initial status
 
 
-If you want to make a link
+If you want to make a link use following construction [Text link](URL)
 
 
 To make a text italic put an asterisk or low dash before and after *Italic*
