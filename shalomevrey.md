@@ -16,20 +16,22 @@ Start our novel
 If you want to make a link
 
 
-To make a text italic put an asterisk before and after *Italic*
+To make a text italic put an asterisk or low dash before and after *Italic*
 
-To make a text bold put two asterisks before and after **Bold**
+To make a text bold put two asterisks or low dashes before and after **Bold**
 
-To make a bullet list put an asterisk (*) or a plus sign (+) with a space before each word
+
+Alternative ways of formatting a text with bold or italic need to use both of them. For example, *__В России две беды: дураки и дороги__*
+
+To make a bullet list put an asterisk (*) or a plus (+) signs with a space before each word
 * Трус
 * Балбес
 * Бывалый
 * Жулик
 
 + Сопелька
-+ Чудик
-+ Обрыган
-
++ Мокрая курица
++ Хрен с горы
 
 To cross a text out put double tilda before and after the text
 
@@ -46,3 +48,5 @@ Another day so hard to bear.
 The things around me that I see remind me of
 The past and how it all used to be...
 
+To add an image use following consruction
+![Switzerland](saas-fee--2553924-4.jpg)
