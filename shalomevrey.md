@@ -11,15 +11,17 @@ Start our novel
 5. git diff - shows the difference between current status of a file and saved
 6. git checkout - loads indicated saving
 7. git checkout master - returns to the initial status
-8. git checkout branch_name - switches to a created branch
 
 
 If you want to make a link
 
 
-To make a text italic put an asterisk before and after *Italic*
+To make a text italic put an asterisk or low dash before and after *Italic*
 
-To make a text bold put two asterisks before and after **Bold**
+To make a text bold put two asterisks or low dashes before and after **Bold**
+
+
+Alternative ways of formatting a text with bold or italic need to use both of them. For example, *__В России две беды: дураки и дороги__*
 
 To make a bullet list put an asterisk with a space before each word
 * Трус
