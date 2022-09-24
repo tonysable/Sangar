@@ -10,7 +10,8 @@ Start our novel
 4. git --version - checking the current version of Git
 5. git diff - shows the difference between current status of a file and saved
 6. git checkout - loads indicated saving
-7. git checkout master - returns to the initial status
+7. git branch branch_name - creates a new branch
+8. git checkout master - returns to the initial status
 
 
 If you want to make a link
