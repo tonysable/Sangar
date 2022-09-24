@@ -20,11 +20,16 @@ To make a text italic put an asterisk before and after *Italic*
 
 To make a text bold put two asterisks before and after **Bold**
 
-To make a bullet list put an asterisk with a space before each word
+To make a bullet list put an asterisk (*) or a plus sign (+) with a space before each word
 * Трус
 * Балбес
 * Бывалый
 * Жулик
+
++ Сопелька
++ Чудик
++ Обрыган
+
 
 To cross a text out put double tilda before and after the text
 
