@@ -16,9 +16,12 @@ Start our novel
 If you want to make a link
 
 
-To make a text italic put an asterisk before and after *Italic*
+To make a text italic put an asterisk or low dash before and after *Italic*
 
-To make a text bold put two asterisks before and after **Bold**
+To make a text bold put two asterisks or low dashes before and after **Bold**
+
+
+Alternative ways of formatting a text with bold or italic need to use both of them. For example, *__В России две беды: дураки и дороги__*
 
 To make a bullet list put an asterisk with a space before each word
 * Трус
