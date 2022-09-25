@@ -13,7 +13,9 @@ Start our novel
 7. git checkout master - returns to the initial status
 8. git branch branch_name - creates a new branch
 9. git checkout branch_name - switches to a created branch
-
+10. git clone - clones an external repository to your PC
+11. git pull - downloads all information from the current repository and makes merging with your version
+12. git push - sends your version of repository to an external repository. **IMPORTANT!** You must authorized prior to use this command on your external repository!
 
 If you want to make a link use following construction [Text link](URL)
 
