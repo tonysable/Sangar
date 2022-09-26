@@ -17,6 +17,8 @@ Start our novel
 11. git pull - downloads all information from the current repository and makes merging with your version
 12. git push - sends your version of repository to an external repository. **IMPORTANT!** You must authorized prior to use this command on your external repository!
 13. git branch -d branch_name - deletes a branch
+14. clear - clears the terminal
+15. git remote rm <remote_name> - removes a remote repository
 
 If you want to make a link use following construction [Text link](URL)
 
